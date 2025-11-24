@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Download Watchfolio
+    url: https://github.com/Zawalid/watchfolio-releases/releases/latest
+    about: Download the latest version of Watchfolio
+  - name: Web App
+    url: https://watchfolio.netlify.app
+    about: Use Watchfolio in your browser
