@@ -479,25 +479,6 @@ Browse complete collections:
 
 ---
 
-## 💻 System Requirements
-
-### Minimum Requirements
-| Component | Requirement |
-|-----------|-------------|
-| **OS** | Windows 10 (64-bit) / macOS 11+ / Ubuntu 22.04+ |
-| **RAM** | 4 GB |
-| **Storage** | 500 MB available |
-| **Internet** | Required for initial setup & sync |
-| **Display** | 1280x720 or higher |
-
-### Recommended
-- **8 GB RAM** for better performance with large libraries
-- **SSD** for faster database operations
-- **Stable internet** for seamless cloud sync
-- **1920x1080** display for optimal experience
-
----
-
 ## 📦 Installation
 
 ### Windows
